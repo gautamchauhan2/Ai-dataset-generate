@@ -1,4 +1,4 @@
-Streamlit: 1.12.2
+Streamlit:  1.43.2
 NetworkX:  3.4.2
 Pandas: 1.4.4
 NumPy: 1.23.3
