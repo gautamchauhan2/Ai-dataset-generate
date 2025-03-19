@@ -1,0 +1,8 @@
+Streamlit: 1.12.2
+NetworkX: 2.8.6
+Pandas: 1.4.4
+NumPy: 1.23.3
+Pyvis: 0.2.1
+google-generativeai: 0.8.4 
+Matplotlib: 3.10.1 
+Seaborn: 0.13.1 
